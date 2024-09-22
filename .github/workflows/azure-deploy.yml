@@ -33,6 +33,6 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: 'upload'
           app_location: '/BlazorWAzure.Client'  # Adjust to your app's path
-          api_location: '/BlazorWAzure.Functions'      # Adjust to your API's path
+          api_location: ''      # Adjust to your API's path
           output_location: 'wwwroot'             # Adjust if different
 
