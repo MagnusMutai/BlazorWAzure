@@ -1,0 +1,17 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+@using BlazorWAzure.Shared
+
+<h1>Welcome to Blazor with Azure Functions!</h1>
+
+<p>@sharedData.Message</p>
+
+@code {
+    private SharedData sharedData = new SharedData();
+
+    protected override void OnInitialized()
+    {
+        sharedData.Message = "This message is from the shared class library.";
+    }
+}

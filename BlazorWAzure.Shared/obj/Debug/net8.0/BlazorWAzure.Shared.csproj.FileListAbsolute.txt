@@ -1,0 +1,11 @@
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\bin\Debug\net8.0\BlazorWAzure.Shared.deps.json
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\bin\Debug\net8.0\BlazorWAzure.Shared.dll
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\bin\Debug\net8.0\BlazorWAzure.Shared.pdb
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\BlazorWAzure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\BlazorWAzure.Shared.AssemblyInfoInputs.cache
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\BlazorWAzure.Shared.AssemblyInfo.cs
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\BlazorWAzure.Shared.csproj.CoreCompileInputs.cache
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\BlazorWAzure.Shared.dll
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\refint\BlazorWAzure.Shared.dll
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\BlazorWAzure.Shared.pdb
+C:\Users\METRINE\source\repos\BlazorWAzure\BlazorWAzure.Shared\obj\Debug\net8.0\ref\BlazorWAzure.Shared.dll
